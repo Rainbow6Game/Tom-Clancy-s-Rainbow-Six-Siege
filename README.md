@@ -3,7 +3,7 @@
 ## Year 1
 [Season 1 - Operation Black Ice](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/y1s1)
 
-Season 2 - Operation Dust Line
+[Season 2 - Operation Dust Line](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/y1s2)
 
 Season 3 - Operation Skull Rain
 
