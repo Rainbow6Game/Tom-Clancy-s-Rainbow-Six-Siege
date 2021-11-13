@@ -5,7 +5,7 @@
 
 [Season 2 - Operation Dust Line](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/y1s2)
 
-Season 3 - Operation Skull Rain
+[Season 3 - Operation Skull Rain](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/y1s3)
 
 Season 4 - Operation Red Crow
 
