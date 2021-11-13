@@ -10,7 +10,7 @@
 Season 4 - Operation Red Crow
 
 ## Year 2
-Season 1 - Operation Velvet Shell
+[Season 1 - Operation Velvet Shell](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/y2s1)
 
 Season 2
 
