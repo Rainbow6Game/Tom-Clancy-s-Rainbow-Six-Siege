@@ -1,6 +1,6 @@
 # Tom Clancy's Rainbow Six Siege Archive
 
-Vanilla
+[Vanilla](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/y0s0)
 
 ## Year 1
 [Season 1 - Operation Black Ice](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/y1s1)
