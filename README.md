@@ -1,6 +1,6 @@
 # Tom Clancy's Rainbow Six Siege Archive
 
-[Closed Alpha]()
+[Closed Alpha](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/closedalpha)
 
 [Vanilla](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/y0s0)
 
