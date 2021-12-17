@@ -58,13 +58,13 @@
 
 ## Year 6
 
-[Season 1 - Operation Crimson Heist]()
+[Season 1 - Operation Crimson Heist] - Coming Soon
 
-[Season 2 - Operation North Star]()
+[Season 2 - Operation North Star] - Coming Soon
 
-[Season 3 - Operation Crystal Guard]()
+[Season 3 - Operation Crystal Guard] - Coming Soon
 
-[Season 4 - Operation High Calibre]()
+[Season 4 - Operation High Calibre] - Coming Soon
 
 
 ## Year 7
