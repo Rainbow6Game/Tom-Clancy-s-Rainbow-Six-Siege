@@ -27,7 +27,7 @@
 
 [Season 1 - Operation Chimera](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/y3s1)
 
-[Season 2 - Operation Para Bellum]()
+[Season 2 - Operation Para Bellum](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/y3s2)
 
 [Season 3 - Operation Grim Sky]()
 
