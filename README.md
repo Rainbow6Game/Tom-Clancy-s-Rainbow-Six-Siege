@@ -29,7 +29,7 @@
 
 [Season 2 - Operation Para Bellum](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/y3s2)
 
-[Season 3 - Operation Grim Sky] - Coming Soon
+[Season 3 - Operation Grim Sky](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/y3s3)
 
 [Season 4 - Operation Wind Bastilon] - Coming Soon
 
