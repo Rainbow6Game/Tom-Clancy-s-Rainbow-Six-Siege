@@ -31,7 +31,7 @@
 
 [Season 3 - Operation Grim Sky](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/y3s3)
 
-[Season 4 - Operation Wind Bastilon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/y3s4)
+[Season 4 - Operation Wind Bastion](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/y3s4)
 
 
 ## Year 4
