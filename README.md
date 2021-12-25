@@ -1,37 +1,37 @@
 # Tom Clancy's Rainbow Six Siege Archive
 
-[Closed Alpha](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/closedalpha)
+[Closed Alpha] - Coming Soon
 
-[Vanilla](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/y0s0)
+[Vanilla] - Coming Soon
 
 ## Year 1
-[Season 1 - Operation Black Ice](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/y1s1)
+[Season 1 - Operation Black Ice] - Coming Soon
 
-[Season 2 - Operation Dust Line](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/y1s2)
+[Season 2 - Operation Dust Line] - Coming Soon
 
-[Season 3 - Operation Skull Rain](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/y1s3)
+[Season 3 - Operation Skull Rain] - Coming Soon
 
-[Season 4 - Operation Red Crow](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/y1s4)
+[Season 4 - Operation Red Crow] - Coming Soon
 
 ## Year 2
-[Season 1 - Operation Velvet Shell](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/y2s1)
+[Season 1 - Operation Velvet Shell] - Coming Soon
 
-[Season 2 - Operation Health](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/y2s2)
+[Season 2 - Operation Health] - Coming Soon
 
-[Season 3 - Operation Blood Orchid](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/y2s3)
+[Season 3 - Operation Blood Orchid] - Coming Soon
 
-[Season 4 - Operation White Noise](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/y2s4)
+[Season 4 - Operation White Noise] - Coming Soon
 
 
 ## Year 3
 
-[Season 1 - Operation Chimera](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/y3s1)
+[Season 1 - Operation Chimera] - Coming Soon
 
-[Season 2 - Operation Para Bellum](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/y3s2)
+[Season 2 - Operation Para Bellum] - Coming Soon
 
-[Season 3 - Operation Grim Sky](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/y3s3)
+[Season 3 - Operation Grim Sky] - Coming Soon
 
-[Season 4 - Operation Wind Bastion](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/y3s4)
+[Season 4 - Operation Wind Bastion] - Coming Soon
 
 
 ## Year 4
