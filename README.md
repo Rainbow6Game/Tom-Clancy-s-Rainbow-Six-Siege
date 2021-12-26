@@ -1,6 +1,6 @@
 # Tom Clancy's Rainbow Six Siege Archive
 
-[Closed Alpha] - Coming Soon
+[Closed Alpha](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/closed-alpha)
 
 [Vanilla] - Coming Soon
 
