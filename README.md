@@ -9,7 +9,7 @@
 
 [Season 2 - Operation Dust Line](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y1S2)
 
-[Season 3 - Operation Skull Rain] - Coming Soon
+[Season 3 - Operation Skull Rain](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y1S3)
 
 [Season 4 - Operation Red Crow] - Coming Soon
 
