@@ -11,7 +11,7 @@
 
 [Season 3 - Operation Skull Rain](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y1S3)
 
-[Season 4 - Operation Red Crow] - Coming Soon
+[Season 4 - Operation Red Crow](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y1S4)
 
 ## Year 2
 [Season 1 - Operation Velvet Shell] - Coming Soon
