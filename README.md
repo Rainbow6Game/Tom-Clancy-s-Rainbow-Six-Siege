@@ -40,7 +40,7 @@
 
 [Season 2 - Operation Phantom Sight] - Coming Soon
 
-[Season 3 - Operation Ember Rise - Coming Soon]
+[Season 3 - Operation Ember Rise - Coming Soon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y5S3)
 
 [Season 4 - Operation Shifting Tides] - Coming Soon
 
