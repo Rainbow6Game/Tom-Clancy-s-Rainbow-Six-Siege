@@ -69,4 +69,4 @@
 
 ## Year 7
 
-[Season 1] - Will be unveiled in march 2022 at road to SI 2022 invitational
+[Season 1 - Operation Demon Veil] - Coming Soon
