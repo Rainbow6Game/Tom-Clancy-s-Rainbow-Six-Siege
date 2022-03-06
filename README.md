@@ -1,5 +1,9 @@
 # Tom Clancy's Rainbow Six Siege Archive
 
+[Submit a Bug/Season](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/wiki/Report-A-Bug-Contact-Us)
+
+
+
 [Closed Alpha](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/closed-alpha)
 
 [Closed Beta - Coming Soon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/closed-beta)
