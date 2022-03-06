@@ -1,6 +1,6 @@
 # Tom Clancy's Rainbow Six Siege Archive
 
-[Submit a Bug/Season](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/wiki/Report-A-Bug-Contact-Us)
+[Submit a Bug](https://rainbow6siegeghb.frill.co/)
 
 
 
