@@ -57,7 +57,7 @@
 
 [Season 2 - Operation Steel Wave - Coming Soon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y5S2)
 
-[Season 3 - Operation Shadow Legacy] - Coming Soon
+[Season 3 - Operation Shadow Legacy - Coming Soon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y5S3)
 
 [Season 4 - Operation Neon Dawn] - Coming Soon
 
