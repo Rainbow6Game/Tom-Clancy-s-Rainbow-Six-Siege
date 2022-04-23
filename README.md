@@ -37,7 +37,7 @@
 
 [Season 3 - Operation Grim Sky - Coming Soon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y3S3)
 
-[Season 4 - Operation Wind Bastion] - Coming Soon
+[Season 4 - Operation Wind Bastion - Coming Soon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y3S4)
 
 
 ## Year 4
