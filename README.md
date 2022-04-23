@@ -68,7 +68,7 @@
 
 [Season 2 - Operation North Star - Coming Soon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y6S2)
 
-[Season 3 - Operation Crystal Guard] - Coming Soon
+[Season 3 - Operation Crystal Guard - Coming Soon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y6S3)
 
 [Season 4 - Operation High Calibre] - Coming Soon
 
