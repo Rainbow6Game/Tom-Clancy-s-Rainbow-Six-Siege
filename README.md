@@ -59,7 +59,7 @@
 
 [Season 3 - Operation Shadow Legacy - Coming Soon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y5S3)
 
-[Season 4 - Operation Neon Dawn] - Coming Soon
+[Season 4 - Operation Neon Dawn - Coming Soon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y5S4)
 
 
 ## Year 6
