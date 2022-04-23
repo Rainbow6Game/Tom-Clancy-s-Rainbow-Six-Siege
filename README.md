@@ -3,7 +3,7 @@
 [Submit a Bug](https://rainbow6siegeghb.frill.co/)
 
 
-
+## 1.0
 [Closed Alpha](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/closed-alpha)
 
 [Closed Beta - Coming Soon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/closed-beta)
