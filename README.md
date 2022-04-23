@@ -70,7 +70,7 @@
 
 [Season 3 - Operation Crystal Guard - Coming Soon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y6S3)
 
-[Season 4 - Operation High Calibre] - Coming Soon
+[Season 4 - Operation High Calibre - Coming Soon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y6S4)
 
 
 ## Year 7
