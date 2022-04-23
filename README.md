@@ -75,4 +75,4 @@
 
 ## Year 7
 
-[Season 1 - Operation Demon Veil] - Coming Soon
+[Season 1 - Operation Demon Veil - Coming Soon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y7S1)
