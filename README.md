@@ -44,7 +44,7 @@
 
 [Season 1 - Operation Burnt Horizon - Coming Soon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y4S1)
 
-[Season 2 - Operation Phantom Sight] - Coming Soon
+[Season 2 - Operation Phantom Sight - Coming Soon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y4S2)
 
 [Season 3 - Operation Ember Rise](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y4S3)
 
