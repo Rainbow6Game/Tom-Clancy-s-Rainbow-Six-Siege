@@ -66,7 +66,7 @@
 
 [Season 1 - Operation Crimson Heist - Coming Soon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y6S1)
 
-[Season 2 - Operation North Star] - Coming Soon
+[Season 2 - Operation North Star - Coming Soon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y6S2)
 
 [Season 3 - Operation Crystal Guard] - Coming Soon
 
