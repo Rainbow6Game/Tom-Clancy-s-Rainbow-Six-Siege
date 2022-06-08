@@ -78,4 +78,4 @@
 
 [Season 1 - Operation Demon Veil - Coming Soon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y7S1)
 
-Season 2 - Operation Vector Glare - Coming Soon
+[Season 2 - Operation Vector Glare - Coming Soon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y7S2)
