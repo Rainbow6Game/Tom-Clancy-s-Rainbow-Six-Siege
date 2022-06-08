@@ -2,6 +2,7 @@
 
 - To submit a bug please use the **issues** tab
 - To ask questions please use the **Discussions** tab
+- [Patch Notes (Reddit)](https://bit.ly/3H3ip9p)
 
 
 ## 1.0
