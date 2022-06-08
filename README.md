@@ -1,6 +1,7 @@
 # Tom Clancy's Rainbow Six Siege Archive
 
-[Submit a Bug](https://rainbow6siegeghb.frill.co/)
+- To submit a bug please use the **issues** tab
+- To ask questions please use the **Discussions** tab
 
 
 ## 1.0
