@@ -28,7 +28,7 @@
 
 [Season 3 - Operation Blood Orchid](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y2S3)
 
-[Season 4 - Operation White Noise - Coming Soon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y2S4)
+[Season 4 - Operation White Noise](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y2S4)
 
 
 ## Year 3
