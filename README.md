@@ -10,30 +10,30 @@
 
 [Closed Beta](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/closed-beta)
 
-[Vanilla](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y0S0)
+[Vanilla - Coming Soon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y0S0)
 
 ## Year 1
-[Season 1 - Operation Black Ice](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y1S1)
+[Season 1 - Operation Black Ice - Coming Soon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y1S1)
 
-[Season 2 - Operation Dust Line](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y1S2)
+[Season 2 - Operation Dust Line - Coming Soon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y1S2)
 
-[Season 3 - Operation Skull Rain](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y1S3)
+[Season 3 - Operation Skull Rain - Coming Soon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y1S3)
 
-[Season 4 - Operation Red Crow](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y1S4)
+[Season 4 - Operation Red Crow - Coming Soon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y1S4)
 
 ## Year 2
-[Season 1 - Operation Velvet Shell](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y2S1)
+[Season 1 - Operation Velvet Shell - Coming Soon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y2S1)
 
-[Season 2 - Operation Health](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y2S2)
+[Season 2 - Operation Health - Coming Soon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y2S2)
 
-[Season 3 - Operation Blood Orchid](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y2S3)
+[Season 3 - Operation Blood Orchid - Coming Soon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y2S3)
 
-[Season 4 - Operation White Noise](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y2S4)
+[Season 4 - Operation White Noise - Coming Soon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y2S4)
 
 
 ## Year 3
 
-[Season 1 - Operation Chimera](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y3S1)
+[Season 1 - Operation Chimera - Coming Soon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y3S1)
 
 [Season 2 - Operation Para Bellum - Coming Soon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y3S2)
 
@@ -44,11 +44,11 @@
 
 ## Year 4
 
-[Season 1 - Operation Burnt Horizon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y4S1)
+[Season 1 - Operation Burnt Horizon - Coming Soon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y4S1)
 
 [Season 2 - Operation Phantom Sight - Coming Soon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y4S2)
 
-[Season 3 - Operation Ember Rise](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y4S3)
+[Season 3 - Operation Ember Rise - Coming Soon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y4S3)
 
 [Season 4 - Operation Shifting Tides - Coming Soon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y4S4)
 
