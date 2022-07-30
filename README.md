@@ -8,7 +8,7 @@
 ## 1.0
 [Closed Alpha - Coming Soon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/closed-alpha)
 
-[Closed Beta](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/closed-beta)
+[Closed Beta - Coming Soon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/closed-beta)
 
 [Vanilla](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y0S0)
 
