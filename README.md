@@ -33,7 +33,7 @@
 
 ## Year 3
 
-[Season 1 - Operation Chimera - Coming Soon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y3S1)
+[! Season 1 - Operation Chimera](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y3S1)
 
 [Season 2 - Operation Para Bellum - Coming Soon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y3S2)
 
