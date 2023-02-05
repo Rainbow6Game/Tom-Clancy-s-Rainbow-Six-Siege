@@ -83,7 +83,7 @@
 
 [Season 3 - Operation Brutal Swarm - Coming Soon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y7S3)
 
-[Season 4 - Operation Solar Raid - Coming Soon]()
+[Season 4 - Operation Solar Raid - Coming Soon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y7S4)
 
 
 ## Year 8
