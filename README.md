@@ -17,7 +17,7 @@
 
 [Season 2 - Operation Dust Line](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y1S2)
 
-[Season 3 - Operation Skull Rain - Coming Soon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y1S3)
+[Season 3 - Operation Skull Rain](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y1S3)
 
 [Season 4 - Operation Red Crow - Coming Soon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y1S4)
 
@@ -82,3 +82,8 @@
 [Season 2 - Operation Vector Glare - Coming Soon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y7S2)
 
 [Season 3 - Operation Brutal Swarm - Coming Soon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y7S3)
+
+[Season 4 - Operation Solar Raid - Coming Soon]()
+
+
+## Year 8
