@@ -11,7 +11,7 @@
 [Vanilla](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y0S0)
 
 ## Year 1
-[Season 1 - Operation Black Ice - Coming Soon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y1S1)
+[Season 1 - Operation Black Ice](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y1S1)
 
 [Season 2 - Operation Dust Line - Coming Soon](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y1S2)
 
