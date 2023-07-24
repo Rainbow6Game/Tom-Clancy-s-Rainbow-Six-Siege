@@ -2,7 +2,6 @@
 
 - To submit a bug please use the [**Issues**](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/issues) tab
 - To ask questions please use the [**Discussions**](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/discussions) tab
-- [Patch Notes (Reddit)](https://bit.ly/3H3ip9p)
 
 
 ## 1.0
