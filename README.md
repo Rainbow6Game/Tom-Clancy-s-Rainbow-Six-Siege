@@ -5,7 +5,7 @@
 
 
 ## 1.0
-[Closed Alpha](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/closed-alpha)
+[Closed Alpha]()
 
 [Vanilla](https://github.com/Rainbow6Game/Tom-Clancy-s-Rainbow-Six-Siege/releases/tag/Y0S0)
 
