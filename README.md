@@ -7,4 +7,5 @@ To download you'll need [jDownloader 2](https://rb.gy/9iryq)
 
 | Release Version | Download Link |
 | --------------- | ------------- |
-| Closed Alpha    |https://rb.gy/xk584|
+| Closed Alpha    | https://rb.gy/xk584 |
+| Vanilla         | https://rb.gy/seuept |
